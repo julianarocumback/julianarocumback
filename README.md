@@ -28,6 +28,7 @@
       <!-- <img width="30px" src="/main/icons/vue.gif"> -->
       <img width="1px" src="/icons/line.svg">
       <img width="30px" src="/icons/vs-code.gif">
+      <img width="30px" src="/icons/mysql.gif">
       <img width="30px" src="/icons/git.gif">
       <img width="30px" src="/icons/figma.gif">
     </div>
