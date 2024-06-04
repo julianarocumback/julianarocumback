@@ -1,10 +1,8 @@
 
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:fc00ff,80:00dbde&text=%20Bem-vindo(a)%20&fontAlignY=30&animation=twinkling&height=150&fontColor=ffffff&fontSize=35&section=header)
 
-<div>
-  <div>
-  <img height="285px" align="left" src="/icons/avatar.png">
-  </div>
+
+  
   <div>
     <h2 align="center">Sobre mim</h1>
     <p align="center" style="margin: 2em;">
@@ -32,7 +30,7 @@
       <img width="30px" src="/icons/git.gif">
       <img width="30px" src="/icons/figma.gif">
     </div>
-  </div>
+  
 </div>
 <br>
 
